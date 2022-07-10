@@ -20,7 +20,7 @@
 
 * [red team framework](./010-pen/050-redteam-framework.md)
 
-    red-team,红队,渗透框架,nishang,powershell
+    red-team,红队,渗透框架,nishang,powershell,PowerSploit,PowerView
 
 * [privilege escalation tool](./010-pen/060-priv-esca.md)
 
@@ -45,3 +45,7 @@
 * [web security](./010-pen/120-web-security.md)
 
     burpsuite
+
+* [password attack](./010-pen/130-password-attack.md)
+
+    pypykatz
