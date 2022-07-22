@@ -32,7 +32,7 @@
 
 * [靶场](./010-pen/080-shooting-range.md)
 
-    靶场,vulhub,sqli-labs,WebGoat,DVWA,upload-labs,pikachu
+    靶场,vulhub,sqli-labs,WebGoat,DVWA,upload-labs,pikachu,vulstudy
 
 * [learning materials](./010-pen/090-learning-materials.md)
 
