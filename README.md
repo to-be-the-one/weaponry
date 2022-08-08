@@ -44,7 +44,7 @@
 
 * [web security](./010-pen/120-web-security.md)
 
-    burpsuite
+    burpsuite,ssti,tplmap
 
 * [password attack](./010-pen/130-password-attack.md)
 
@@ -57,3 +57,7 @@
 * [brute](./010-pen/150-brute.md)
 
     password-brute,sucrack
+
+* [cloud](./010-pen/160-cloud.md)
+
+    kubeletctl,kubernetes
