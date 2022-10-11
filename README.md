@@ -40,7 +40,7 @@
 
 * [wordlists](./010-pen/110-wordlists.md)
 
-    wordlists,字典,sqli,sql-injection
+    wordlists,字典,sqli,sql-injection,username-anarchy
 
 * [web security](./010-pen/120-web-security.md)
 
