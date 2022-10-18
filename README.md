@@ -24,7 +24,7 @@
 
 * [privilege escalation tool](./010-pen/060-priv-esca.md)
 
-    privilege escalation,priv-esca,peas-ng,winpeas,linpeas
+    privilege escalation,priv-esca,peas-ng,winpeas,linpeas,juicy-potato
 
 * [payload](./010-pen/070-payload.md)
 
