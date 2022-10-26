@@ -24,7 +24,7 @@
 
 * [privilege escalation tool](./010-pen/060-priv-esca.md)
 
-    privilege escalation,priv-esca,peas-ng,winpeas,linpeas,juicy-potato
+    privilege escalation,priv-esca,peas-ng,winpeas,linpeas,juicy-potato,sherlock,Empire,powersploit
 
 * [payload](./010-pen/070-payload.md)
 
@@ -61,3 +61,8 @@
 * [cloud](./010-pen/160-cloud.md)
 
     kubeletctl,kubernetes
+
+* [post exploit](./010-pen/170-post.md)
+
+    empire,powersploit
+
