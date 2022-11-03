@@ -4,3 +4,4 @@
 * [juicy-potato windows priv-esca tool](https://github.com/ohpe/juicy-potato)
 * [sherlock win priv-esca check](https://github.com/rasta-mouse/Sherlock)
 * [Empire 'data/module_source/privesc'](https://github.com/EmpireProject/Empire)
+* [UACME Akagi](https://github.com/hfiref0x/UACME)
