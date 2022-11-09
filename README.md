@@ -66,3 +66,6 @@
 
     empire,powersploit
 
+* [java](./010-pen/180-java.md)
+
+    java-rmi,remote-method-guesser,rmg
