@@ -69,3 +69,7 @@
 * [java](./010-pen/180-java.md)
 
     java-rmi,remote-method-guesser,rmg
+
+* [printer](./010-pen/190-printer.md)
+
+    printer,pret
