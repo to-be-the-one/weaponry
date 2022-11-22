@@ -48,7 +48,7 @@
 
 * [password attack](./010-pen/130-password-attack.md)
 
-    pypykatz
+    pypykatz,mimipenguin,bash-memory-dump
 
 * [online code runner](./010-pen/140-online-code-runner.md)
 
