@@ -28,7 +28,7 @@
 
 * [payload](./010-pen/070-payload.md)
 
-    poc,exp,script,priv-esca,tool,payloadsAllTheThing
+    poc,exp,script,priv-esca,tool,payloadsAllTheThing,ms17-010
 
 * [靶场](./010-pen/080-shooting-range.md)
 
