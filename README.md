@@ -73,3 +73,5 @@
 * [printer](./010-pen/190-printer.md)
 
     printer,pret
+
+* [middle-man](./010-pen/200-middle-man.md)
