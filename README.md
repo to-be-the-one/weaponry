@@ -75,3 +75,7 @@
     printer,pret
 
 * [middle-man](./010-pen/200-middle-man.md)
+
+* [antivirus-bypass](./010-pen/210-antivirus-bypass.md)
+    veil,shellter
+
