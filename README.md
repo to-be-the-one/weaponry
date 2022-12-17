@@ -64,7 +64,7 @@
 
 * [post exploit](./010-pen/170-post.md)
 
-    empire,powersploit
+    empire,powersploit,koadic
 
 * [java](./010-pen/180-java.md)
 
