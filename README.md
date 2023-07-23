@@ -64,7 +64,7 @@
 
 * [post exploit](./010-pen/170-post.md)
 
-    empire,powersploit,koadic
+    empire,powersploit,koadic,HostRecon
 
 * [java](./010-pen/180-java.md)
 
