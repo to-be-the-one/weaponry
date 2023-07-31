@@ -16,7 +16,7 @@
 
 * [web-shell](./010-pen/040-webshell.md)
 
-    webshell,web,打点,getshell
+    webshell,web,打点,getshell, weevely
 
 * [red team framework](./010-pen/050-redteam-framework.md)
 
